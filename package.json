@@ -1,0 +1,47 @@
+{
+  "name": "lorem-insults",
+  "main": "./lib/lorem-insults",
+  "version": "0.0.0",
+  "description": "Lorem ipsum with a twist: Shakespearean and Olde English insults.",
+  "keywords": [
+    "lorem",
+    "insult",
+    "insults",
+    "lorem ipsum",
+    "bag",
+    "10"
+  ],
+  "contributors": [
+    {
+      "name": "Russell Fisher",
+      "github": "https://github.com/RussellAFisher"
+    },
+    {
+      "name": "Mairin Bailey",
+      "github": "https://github.com/mairinbailey"
+    },
+    {
+      "name": "Heather Stone",
+      "github": "https://github.com/heatherblairs"
+    },
+    {
+      "name": "Peter Ostiguy",
+      "github": "https://github.com/peterjostiguy"
+    },
+    {
+      "name": "Kristie McGoldrick",
+      "github": "https://github.com/KristieMcGoldrick"
+    }
+  ],
+  "activationCommands": {
+    "atom-workspace": "lorem-insults:addInsult"
+  },
+  "repository": "https://github.com/LoremInsults/lorem-insults",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+    "underscore": "^1.8.3"
+  }
+}

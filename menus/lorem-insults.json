@@ -1,0 +1,18 @@
+{
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "lorem-insults",
+          "submenu": [
+            {
+              "label": "Add a Lorem Insult",
+              "command": "lorem-insults:addInsult"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
