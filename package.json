@@ -1,7 +1,7 @@
 {
   "name": "lorem-insults",
   "main": "./lib/lorem-insults",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Lorem ipsum with a twist: Shakespearean and Olde English insults.",
   "keywords": [
     "lorem",
